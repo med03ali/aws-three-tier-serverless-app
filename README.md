@@ -56,6 +56,67 @@ This project is a **serverless web application** built on AWS. It allows users t
 
 ---
 
+## 🖼️ Screenshots
+
+### 🔹 Web Application - Homepage
+![WorkingWebApp](Screenshots/WorkingWebApp.png)
+
+---
+
+### 🔹 Web Application - Search Result
+![WorkingWebApp2](Screenshots/WorkingWebApp2.png)
+
+---
+
+### 🔹 S3 Bucket Objects
+![S3BucketObjects](Screenshots/S3BucketObjects.png)
+
+---
+
+### 🔹 CloudFront Distribution
+![CloudFrontDistribution](Screenshots/CloudFrontDistribution.png)
+
+---
+
+### 🔹 DynamoDB Console
+![DynamoDB](Screenshots/DynamoDB.png)
+
+---
+
+### 🔹 DynamoDB Table View
+![DynamoDbTable](Screenshots/DynamoDbTable.png)
+
+---
+
+### 🔹 Lambda Console
+![Lambda](Screenshots/Lambda.png)
+
+---
+
+### 🔹 Lambda Function Code
+![LambdaCode](Screenshots/LambdaCode.png)
+
+---
+
+### 🔹 Lambda IAM Roles
+![LambdaRoles](Screenshots/LambdaRoles.png)
+
+---
+
+### 🔹 API Gateway - GET Method
+![APIGatewayGetMethod](Screenshots/APIGatewayGetMethod.png)
+
+---
+
+### 🔹 API Gateway - Lambda Integration
+![APIGatewayLambdaIntegration](Screenshots/APIGatewayLambdaIntegration.png)
+
+---
+
+### 🔹 API Gateway - Prod Stage
+![APIGatewayProd](Screenshots/APIGatewayProd.png)
+
+
 ## 📁 Project Structure
 
 ```plaintext
@@ -65,3 +126,20 @@ This project is a **serverless web application** built on AWS. It allows users t
 ├── script.js         # API calls and DOM logic
 ├── lambda.txt         # Lambda code to fetch data from DynamoDB
 └── README.md         # Project documentation
+└── Screenshots/
+    ├── APIGatewayGetMethod.png
+    ├── APIGatewayLambdaIntegration.png
+    ├── APIGatewayProd.png
+    ├── CloudFrontDistribution.png
+    ├── DynamoDB.png
+    ├── DynamoDbTable.png
+    ├── Lambda.png
+    ├── LambdaCode.png
+    ├── LambdaRoles.png
+    ├── S3BucketObjects.png
+    ├── WorkingWebApp.png
+    └── WorkingWebApp2.png
+
+
+
+
